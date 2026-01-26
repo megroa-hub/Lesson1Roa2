@@ -1,1 +1,1 @@
-print("Let's valorant")
+print("Let's play ML")
